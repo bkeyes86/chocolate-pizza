@@ -1,4 +1,35 @@
-p{
-  font-family: 'Lobster', cursive;
+body {
+  margin: 0px;
+  padding: 0px;
 
+}
+
+p.dtext {
+  font-family: 'Lobster', cursive;
+  font-size: 32px;
+}
+.forkimage {
+  float: left;
+}
+
+.logostyling {
+  float: left;
+}
+
+p.tline {
+  float: left;
+
+
+}
+#chocopizza {
+  float: left;
+  align-items: center;
+  height: 250px;
+  width: 250px;
+  position: relative;
+
+}
+section.descriptiontext {
+  float: left;
+  align-items: center;
 }
